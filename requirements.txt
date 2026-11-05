@@ -1,0 +1,16 @@
+﻿fastapi
+uvicorn[standard]
+streamlit
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+chromadb
+google-genai
+python-dotenv
+pymupdf
+pandas
+requests
+beautifulsoup4
+pydantic

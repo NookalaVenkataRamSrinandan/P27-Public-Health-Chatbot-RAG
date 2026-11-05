@@ -1,0 +1,19 @@
+# API secrets
+.env
+.env.*
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Vector database
+chroma_db/
+
+# Cache
+.pytest_cache/
+data/raw/medquad/
+data/processed/medquad_clean.csv
+
+data/raw/mohfw/
+data/raw/ncdc/
